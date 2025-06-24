@@ -1,0 +1,24 @@
+# Node modules and build
+node_modules/
+dist/
+.parcel-cache/
+coverage/
+
+# Environment files
+.env
+.env.local
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Personal folders
+Notes/
